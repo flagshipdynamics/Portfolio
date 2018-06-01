@@ -1,5 +1,7 @@
 # Portfolio
 
+
+FOLDER: 
 CommodityFlowInsights.ipynb
 Project: Commodity Flow Survey Insights
 This is a modified notebook based on a Udacity clustering / PCA project. I'm modifying it to be more of a 'deliverable' for analysis of other datasets.
